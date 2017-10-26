@@ -1,0 +1,15 @@
+C:\Users\Kurkulya\Documents\Visual Studio 2017\Projects\TreeCollections\TreeCollections\bin\Debug\TreeCollections.exe.config
+C:\Users\Kurkulya\Documents\Visual Studio 2017\Projects\TreeCollections\TreeCollections\bin\Debug\TreeCollections.exe
+C:\Users\Kurkulya\Documents\Visual Studio 2017\Projects\TreeCollections\TreeCollections\bin\Debug\TreeCollections.pdb
+C:\Users\Kurkulya\Documents\Visual Studio 2017\Projects\TreeCollections\TreeCollections\obj\Debug\TreeCollections.csprojResolveAssemblyReference.cache
+C:\Users\Kurkulya\Documents\Visual Studio 2017\Projects\TreeCollections\TreeCollections\obj\Debug\TreeCollections.csproj.CoreCompileInputs.cache
+C:\Users\Kurkulya\Documents\Visual Studio 2017\Projects\TreeCollections\TreeCollections\obj\Debug\TreeCollections.exe
+C:\Users\Kurkulya\Documents\Visual Studio 2017\Projects\TreeCollections\TreeCollections\obj\Debug\TreeCollections.pdb
+E:\projects\c#\TreeCollections\TreeCollections\bin\Debug\TreeCollections.exe.config
+E:\projects\c#\TreeCollections\TreeCollections\bin\Debug\TreeCollections.exe
+E:\projects\c#\TreeCollections\TreeCollections\bin\Debug\TreeCollections.pdb
+E:\projects\c#\TreeCollections\TreeCollections\obj\Debug\TreeCollections.csproj.CoreCompileInputs.cache
+E:\projects\c#\TreeCollections\TreeCollections\obj\Debug\TreeCollections.exe
+E:\projects\c#\TreeCollections\TreeCollections\obj\Debug\TreeCollections.pdb
+E:\projects\c#\TreeCollections\TreeCollections\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\projects\c#\TreeCollections\TreeCollections\obj\Debug\TreeCollections.csprojResolveAssemblyReference.cache

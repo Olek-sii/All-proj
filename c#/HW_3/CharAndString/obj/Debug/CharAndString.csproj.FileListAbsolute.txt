@@ -1,0 +1,10 @@
+D:\ORT\ORT2\HOMEWORK\HW_3-6\CharAndString\bin\Debug\CharAndString.exe.config
+D:\ORT\ORT2\HOMEWORK\HW_3-6\CharAndString\bin\Debug\CharAndString.exe
+D:\ORT\ORT2\HOMEWORK\HW_3-6\CharAndString\bin\Debug\CharAndString.pdb
+D:\ORT\ORT2\HOMEWORK\HW_3-6\CharAndString\obj\Debug\CharAndString.exe
+D:\ORT\ORT2\HOMEWORK\HW_3-6\CharAndString\obj\Debug\CharAndString.pdb
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\CharAndString\bin\Debug\CharAndString.exe.config
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\CharAndString\bin\Debug\CharAndString.exe
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\CharAndString\bin\Debug\CharAndString.pdb
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\CharAndString\obj\Debug\CharAndString.exe
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\CharAndString\obj\Debug\CharAndString.pdb

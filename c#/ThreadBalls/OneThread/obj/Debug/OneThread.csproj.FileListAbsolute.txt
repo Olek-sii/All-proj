@@ -1,0 +1,10 @@
+C:\Users\Svyatoslav\Desktop\ThreadBalls\OneThread\bin\Debug\OneThread.exe.config
+C:\Users\Svyatoslav\Desktop\ThreadBalls\OneThread\bin\Debug\OneThread.exe
+C:\Users\Svyatoslav\Desktop\ThreadBalls\OneThread\bin\Debug\OneThread.pdb
+C:\Users\Svyatoslav\Desktop\ThreadBalls\OneThread\obj\Debug\ThreadBalls.PBall.resources
+C:\Users\Svyatoslav\Desktop\ThreadBalls\OneThread\obj\Debug\ThreadBalls.PDraw.resources
+C:\Users\Svyatoslav\Desktop\ThreadBalls\OneThread\obj\Debug\OneThread.Properties.Resources.resources
+C:\Users\Svyatoslav\Desktop\ThreadBalls\OneThread\obj\Debug\OneThread.csproj.GenerateResource.Cache
+C:\Users\Svyatoslav\Desktop\ThreadBalls\OneThread\obj\Debug\OneThread.exe
+C:\Users\Svyatoslav\Desktop\ThreadBalls\OneThread\obj\Debug\OneThread.pdb
+C:\Users\Svyatoslav\Desktop\ThreadBalls\OneThread\obj\Debug\OneThread.Form1.resources

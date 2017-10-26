@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+		class Rectangle {
+		  constructor() {
+		    this.height = 10;
+		    this.width = 10;
+		  }
+		  // Getter
+		  get area() {
+		    return this.calcArea();
+		  }
+		  // Method
+		  calcArea() {
+		    return this.height * this.width;
+		  }
+		}
+
+		var square = new Rectangle();
+
+		console.log(square.area); // 100
+	</script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+E:\projects\c#\ChatClientWinForms\bin\Debug\ChatClientWinForms.exe.config
+E:\projects\c#\ChatClientWinForms\bin\Debug\ChatClientWinForms.exe
+E:\projects\c#\ChatClientWinForms\bin\Debug\ChatClientWinForms.pdb
+E:\projects\c#\ChatClientWinForms\obj\Debug\ChatClientWinForms.csprojResolveAssemblyReference.cache
+E:\projects\c#\ChatClientWinForms\obj\Debug\ChatClientWinForms.Form1.resources
+E:\projects\c#\ChatClientWinForms\obj\Debug\ChatClientWinForms.Properties.Resources.resources
+E:\projects\c#\ChatClientWinForms\obj\Debug\ChatClientWinForms.csproj.GenerateResource.Cache
+E:\projects\c#\ChatClientWinForms\obj\Debug\ChatClientWinForms.csproj.CoreCompileInputs.cache
+E:\projects\c#\ChatClientWinForms\obj\Debug\ChatClientWinForms.exe
+E:\projects\c#\ChatClientWinForms\obj\Debug\ChatClientWinForms.pdb

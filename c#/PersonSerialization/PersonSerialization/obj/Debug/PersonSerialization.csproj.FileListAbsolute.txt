@@ -1,0 +1,7 @@
+E:\projects\c#\PersonSerialization\PersonSerialization\bin\Debug\PersonSerialization.exe.config
+E:\projects\c#\PersonSerialization\PersonSerialization\bin\Debug\PersonSerialization.exe
+E:\projects\c#\PersonSerialization\PersonSerialization\bin\Debug\PersonSerialization.pdb
+E:\projects\c#\PersonSerialization\PersonSerialization\obj\Debug\PersonSerialization.csprojResolveAssemblyReference.cache
+E:\projects\c#\PersonSerialization\PersonSerialization\obj\Debug\PersonSerialization.csproj.CoreCompileInputs.cache
+E:\projects\c#\PersonSerialization\PersonSerialization\obj\Debug\PersonSerialization.exe
+E:\projects\c#\PersonSerialization\PersonSerialization\obj\Debug\PersonSerialization.pdb

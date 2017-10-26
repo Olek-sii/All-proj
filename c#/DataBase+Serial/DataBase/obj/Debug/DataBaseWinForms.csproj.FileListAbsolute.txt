@@ -1,0 +1,97 @@
+E:\projects\c#\DataBase\DataBase\bin\Debug\msSqlDb.mdf
+E:\projects\c#\DataBase\DataBase\bin\Debug\msSqlDb_log.ldf
+E:\projects\c#\DataBase\DataBase\bin\Debug\DataBase.exe.config
+E:\projects\c#\DataBase\DataBase\bin\Debug\DataBase.exe
+E:\projects\c#\DataBase\DataBase\bin\Debug\DataBase.pdb
+E:\projects\c#\DataBase\DataBase\bin\Debug\DataBaseApi.dll
+E:\projects\c#\DataBase\DataBase\bin\Debug\DataBaseApi.pdb
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBaseWinForms.csprojResolveAssemblyReference.cache
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBaseWinForms.Form1.resources
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBaseWinForms.csproj.GenerateResource.Cache
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBaseWinForms.csproj.CoreCompileInputs.cache
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBase.exe
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\bin\Debug\msSqlDb.mdf
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\bin\Debug\msSqlDb_log.ldf
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\bin\Debug\DataBaseApi.dll
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\bin\Debug\DataBaseApi.pdb
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\obj\Debug\DataBaseWinForms.csprojResolveAssemblyReference.cache
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\obj\Debug\DataBaseWinForms.Form1.resources
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\obj\Debug\DataBaseWinForms.csproj.GenerateResource.Cache
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\Svyatoslav\Desktop\DataBase\DataBase\DataBase\obj\Debug\DataBase.pdb
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\h2-latest.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\msSqlDb.mdf
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\msSqlDb_log.ldf
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\DataBase.exe.config
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\DataBase.exe
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\DataBase.pdb
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\DataBaseApi.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.Runtime.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Misc.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Management.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.Runtime.JNI.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Corba.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.AWT.WinForms.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Charsets.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\DataBaseApi.pdb
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\obj\Debug\DataBaseWinForms.csprojResolveAssemblyReference.cache
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\obj\Debug\DataBaseWinForms.Form1.resources
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\obj\Debug\DataBaseWinForms.csproj.GenerateResource.Cache
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\obj\Debug\DataBaseWinForms.csproj.CoreCompileInputs.cache
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\obj\Debug\DataBase.exe
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\obj\Debug\DataBase.pdb
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\MySql.Data.dll
+E:\Konstantin\ORT Course\04.09\DataBase+Serial\DataBase\bin\Debug\DataBaseApi.dll.config
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\h2-latest.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\msSqlDb.mdf
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\msSqlDb_log.ldf
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\DataBase.exe.config
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\DataBase.exe
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\DataBase.pdb
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\DataBaseApi.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\MySql.Data.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.Runtime.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Misc.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Management.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.Runtime.JNI.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Corba.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.AWT.WinForms.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\IKVM.OpenJDK.Charsets.dll
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\DataBaseApi.pdb
+E:\projects\c#\DataBase+Serial\DataBase\bin\Debug\DataBaseApi.dll.config
+E:\projects\c#\DataBase+Serial\DataBase\obj\Debug\DataBaseWinForms.csprojResolveAssemblyReference.cache
+E:\projects\c#\DataBase+Serial\DataBase\obj\Debug\DataBaseWinForms.Form1.resources
+E:\projects\c#\DataBase+Serial\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\projects\c#\DataBase+Serial\DataBase\obj\Debug\DataBaseWinForms.csproj.GenerateResource.Cache
+E:\projects\c#\DataBase+Serial\DataBase\obj\Debug\DataBaseWinForms.csproj.CoreCompileInputs.cache
+E:\projects\c#\DataBase+Serial\DataBase\obj\Debug\DataBase.exe
+E:\projects\c#\DataBase+Serial\DataBase\obj\Debug\DataBase.pdb

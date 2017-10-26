@@ -1,0 +1,13 @@
+D:\ORT\ORT2\HOMEWORK\HW_3-6\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+D:\ORT\ORT2\HOMEWORK\HW_3-6\RandomNumbers\bin\Debug\RandomNumbers.exe
+D:\ORT\ORT2\HOMEWORK\HW_3-6\RandomNumbers\bin\Debug\RandomNumbers.pdb
+D:\ORT\ORT2\HOMEWORK\HW_3-6\RandomNumbers\obj\Debug\RandomNumbers.exe
+D:\ORT\ORT2\HOMEWORK\HW_3-6\RandomNumbers\obj\Debug\RandomNumbers.pdb
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\RandomNumbers\obj\Debug\RandomNumbers.exe
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\RandomNumbers\obj\Debug\RandomNumbers.pdb
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\RandomNumbers\bin\Debug\RandomNumbers.exe
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\RandomNumbers\bin\Debug\RandomNumbers.pdb
+E:\projects\c#\HW_3\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+E:\projects\c#\HW_3\RandomNumbers\obj\Debug\RandomNumbers.exe
+E:\projects\c#\HW_3\RandomNumbers\obj\Debug\RandomNumbers.pdb

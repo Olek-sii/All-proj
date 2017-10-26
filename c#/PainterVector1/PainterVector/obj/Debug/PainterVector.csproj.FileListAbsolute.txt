@@ -1,0 +1,15 @@
+E:\projects\c#\PainterVector\PainterVector\obj\Debug\PainterVector.csprojResolveAssemblyReference.cache
+E:\projects\c#\PainterVector\PainterVector\obj\Debug\PainterVector.Form1.resources
+E:\projects\c#\PainterVector\PainterVector\obj\Debug\PainterVector.PFigure.resources
+E:\projects\c#\PainterVector\PainterVector\obj\Debug\PainterVector.PDraw.resources
+E:\projects\c#\PainterVector\PainterVector\obj\Debug\PainterVector.Properties.Resources.resources
+E:\projects\c#\PainterVector\PainterVector\obj\Debug\PainterVector.csproj.GenerateResource.Cache
+E:\projects\c#\PainterVector\PainterVector\obj\Debug\PainterVector.csproj.CoreCompileInputs.cache
+E:\projects\c#\PainterVector\PainterVector\bin\Debug\PainterVector.exe.config
+E:\projects\c#\PainterVector\PainterVector\bin\Debug\PainterVector.exe
+E:\projects\c#\PainterVector\PainterVector\bin\Debug\PainterVector.pdb
+E:\projects\c#\PainterVector\PainterVector\obj\Debug\PainterVector.exe
+E:\projects\c#\PainterVector\PainterVector\obj\Debug\PainterVector.pdb
+E:\projects\c#\PainterVector\PainterVector\obj\Debug\PainterVector.PLineWidth.resources
+E:\projects\c#\PainterVector\PainterVector\obj\Debug\PainterVector.PMenu.resources
+E:\projects\c#\PainterVector\PainterVector\obj\Debug\PainterVector.PFigureType.resources

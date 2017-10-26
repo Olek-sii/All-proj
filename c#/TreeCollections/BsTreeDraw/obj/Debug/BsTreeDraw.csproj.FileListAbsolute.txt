@@ -1,0 +1,13 @@
+E:\projects\c#\TreeCollections\BsTreeDraw\bin\Debug\BsTreeDraw.exe.config
+E:\projects\c#\TreeCollections\BsTreeDraw\bin\Debug\BsTreeDraw.exe
+E:\projects\c#\TreeCollections\BsTreeDraw\bin\Debug\BsTreeDraw.pdb
+E:\projects\c#\TreeCollections\BsTreeDraw\bin\Debug\TreeCollections.exe
+E:\projects\c#\TreeCollections\BsTreeDraw\bin\Debug\TreeCollections.pdb
+E:\projects\c#\TreeCollections\BsTreeDraw\bin\Debug\TreeCollections.exe.config
+E:\projects\c#\TreeCollections\BsTreeDraw\obj\Debug\BsTreeDraw.csprojResolveAssemblyReference.cache
+E:\projects\c#\TreeCollections\BsTreeDraw\obj\Debug\BsTreeDraw.Form1.resources
+E:\projects\c#\TreeCollections\BsTreeDraw\obj\Debug\BsTreeDraw.Properties.Resources.resources
+E:\projects\c#\TreeCollections\BsTreeDraw\obj\Debug\BsTreeDraw.csproj.GenerateResource.Cache
+E:\projects\c#\TreeCollections\BsTreeDraw\obj\Debug\BsTreeDraw.csproj.CoreCompileInputs.cache
+E:\projects\c#\TreeCollections\BsTreeDraw\obj\Debug\BsTreeDraw.exe
+E:\projects\c#\TreeCollections\BsTreeDraw\obj\Debug\BsTreeDraw.pdb

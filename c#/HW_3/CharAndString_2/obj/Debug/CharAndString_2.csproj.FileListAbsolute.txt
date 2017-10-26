@@ -1,0 +1,8 @@
+D:\ORT\ORT2\HOMEWORK\HW_3-6\CharAndString_2\bin\Debug\CharAndString_2.dll
+D:\ORT\ORT2\HOMEWORK\HW_3-6\CharAndString_2\bin\Debug\CharAndString_2.pdb
+D:\ORT\ORT2\HOMEWORK\HW_3-6\CharAndString_2\obj\Debug\CharAndString_2.dll
+D:\ORT\ORT2\HOMEWORK\HW_3-6\CharAndString_2\obj\Debug\CharAndString_2.pdb
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\CharAndString_2\bin\Debug\CharAndString_2.dll
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\CharAndString_2\bin\Debug\CharAndString_2.pdb
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\CharAndString_2\obj\Debug\CharAndString_2.dll
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\CharAndString_2\obj\Debug\CharAndString_2.pdb

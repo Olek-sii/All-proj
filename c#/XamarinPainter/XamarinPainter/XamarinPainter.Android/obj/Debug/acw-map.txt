@@ -1,0 +1,4 @@
+XamarinPainter.Droid.MainActivity, XamarinPainter.Android;md58d3caf03cfd947644ddf4a2dc65309c4.MainActivity
+XamarinPainter.Droid.MainActivity, XamarinPainter.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58d3caf03cfd947644ddf4a2dc65309c4.MainActivity
+XamarinPainter.Droid.MainActivity;md58d3caf03cfd947644ddf4a2dc65309c4.MainActivity
+xamarinpainter.droid.MainActivity;md58d3caf03cfd947644ddf4a2dc65309c4.MainActivity

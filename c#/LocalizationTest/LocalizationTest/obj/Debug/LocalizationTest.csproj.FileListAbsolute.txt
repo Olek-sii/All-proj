@@ -1,0 +1,12 @@
+E:\projects\c#\LocalizationTest\LocalizationTest\bin\Debug\LocalizationTest.exe.config
+E:\projects\c#\LocalizationTest\LocalizationTest\bin\Debug\LocalizationTest.exe
+E:\projects\c#\LocalizationTest\LocalizationTest\bin\Debug\LocalizationTest.pdb
+E:\projects\c#\LocalizationTest\LocalizationTest\bin\Debug\Newtonsoft.Json.dll
+E:\projects\c#\LocalizationTest\LocalizationTest\bin\Debug\Newtonsoft.Json.xml
+E:\projects\c#\LocalizationTest\LocalizationTest\obj\Debug\LocalizationTest.csprojResolveAssemblyReference.cache
+E:\projects\c#\LocalizationTest\LocalizationTest\obj\Debug\LocalizationTest.Form1.resources
+E:\projects\c#\LocalizationTest\LocalizationTest\obj\Debug\LocalizationTest.Properties.Resources.resources
+E:\projects\c#\LocalizationTest\LocalizationTest\obj\Debug\LocalizationTest.csproj.GenerateResource.Cache
+E:\projects\c#\LocalizationTest\LocalizationTest\obj\Debug\LocalizationTest.csproj.CoreCompileInputs.cache
+E:\projects\c#\LocalizationTest\LocalizationTest\obj\Debug\LocalizationTest.exe
+E:\projects\c#\LocalizationTest\LocalizationTest\obj\Debug\LocalizationTest.pdb

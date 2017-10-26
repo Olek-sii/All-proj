@@ -1,0 +1,88 @@
+<script>
+function add(pos) {
+var id = document.getElementById('id').value;
+var fn = document.getElementById('fn').value;
+var ln = document.getElementById('ln').value;
+var age = document.getElementById('age').value;
+	var tableRef = document.getElementById('persons').getElementsByTagName('tbody')[0];
+
+	// Insert a row in the table at the first row
+	var newRow   = tableRef.insertRow(pos);
+
+	// Insert a cell in the row at index 0
+	var cellId  = newRow.insertCell(0);
+	var cellFn = newRow.insertCell(1);
+	var cellLn = newRow.insertCell(2);
+	var cellAge = newRow.insertCell(3);
+
+	// Append a text node to the cell
+	cellId.appendChild(document.createTextNode(id));
+	cellFn.appendChild(document.createTextNode(fn));
+	cellLn.appendChild(document.createTextNode(ln));
+	cellAge.appendChild(document.createTextNode(age));
+}
+
+function addStart() {
+	add(0);
+}
+
+function addEnd() {
+	var tableRef = document.getElementById('persons').getElementsByTagName('tbody')[0];
+	add(tableRef.rows.length);
+}
+
+function addMid() {
+	var tableRef = document.getElementById('persons').getElementsByTagName('tbody')[0];
+	add(tableRef.rows.length / 2);
+}
+
+function delStart() {
+	var tableRef = document.getElementById('persons').getElementsByTagName('tbody')[0];
+		if (tableRef.rows.length > 0)
+	tableRef.deleteRow(0);
+}
+
+function delEnd() {
+	var tableRef = document.getElementById('persons').getElementsByTagName('tbody')[0];
+	if (tableRef.rows.length > 0)
+		document.getElementById("persons").deleteRow(tableRef.rows.length);
+}
+
+function delMid() {
+	var tableRef = document.getElementById('persons').getElementsByTagName('tbody')[0];
+	if (tableRef.rows.length > 0)
+		document.getElementById("persons").deleteRow(Math.ceil(tableRef.rows.length / 2 ));
+}
+
+function clearTable() {
+	var tableRef = document.getElementById('persons').getElementsByTagName('tbody')[0];
+	while(tableRef.rows.length > 0) {
+	  tableRef.deleteRow(0);
+	}
+}
+</script>
+
+id: <input type="text" id="id"><br>
+fn: <input type="text" id="fn"><br>
+ln: <input type="text" id="ln"><br>
+age: <input type="text" id="age"><br>
+<button type="button" onclick="addStart()">AddStart</button>
+<button type="button" onclick="addEnd()">AddEnd</button>
+<button type="button" onclick="addMid()">AddMid</button> <br/>
+<button type="button" onclick="delStart()">DelStart</button>
+<button type="button" onclick="delEnd()">DelEnd</button>
+<button type="button" onclick="delMid()">DelMid</button> <br/>
+<button type="button" onclick="clearTable()">Clear</button> 
+
+<table id="persons" border="1">
+	<thead>
+		<th>id</th>
+		<th>fn</th>
+		<th>ln</th>
+		<th>age</th>
+	</thead>
+	<tbody>
+		
+	</tbody>
+    
+</table>​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​

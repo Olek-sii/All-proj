@@ -1,0 +1,8 @@
+E:\projects\c#\List\List\bin\Debug\List.exe.config
+E:\projects\c#\List\List\bin\Debug\List.exe
+E:\projects\c#\List\List\bin\Debug\List.pdb
+E:\projects\c#\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+E:\projects\c#\List\List\obj\Debug\List.exe
+E:\projects\c#\List\List\obj\Debug\List.pdb
+E:\projects\c#\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+E:\projects\c#\List\List\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll

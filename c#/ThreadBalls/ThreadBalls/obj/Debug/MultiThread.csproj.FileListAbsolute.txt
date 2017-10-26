@@ -1,0 +1,10 @@
+C:\Users\Svyatoslav\Desktop\ThreadBalls\ThreadBalls\bin\Debug\ThreadBalls.exe.config
+C:\Users\Svyatoslav\Desktop\ThreadBalls\ThreadBalls\bin\Debug\ThreadBalls.exe
+C:\Users\Svyatoslav\Desktop\ThreadBalls\ThreadBalls\bin\Debug\ThreadBalls.pdb
+C:\Users\Svyatoslav\Desktop\ThreadBalls\ThreadBalls\obj\Debug\ThreadBalls.Form1.resources
+C:\Users\Svyatoslav\Desktop\ThreadBalls\ThreadBalls\obj\Debug\ThreadBalls.PBall.resources
+C:\Users\Svyatoslav\Desktop\ThreadBalls\ThreadBalls\obj\Debug\ThreadBalls.PDraw.resources
+C:\Users\Svyatoslav\Desktop\ThreadBalls\ThreadBalls\obj\Debug\ThreadBalls.Properties.Resources.resources
+C:\Users\Svyatoslav\Desktop\ThreadBalls\ThreadBalls\obj\Debug\MultiThread.csproj.GenerateResource.Cache
+C:\Users\Svyatoslav\Desktop\ThreadBalls\ThreadBalls\obj\Debug\ThreadBalls.exe
+C:\Users\Svyatoslav\Desktop\ThreadBalls\ThreadBalls\obj\Debug\ThreadBalls.pdb

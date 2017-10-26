@@ -1,0 +1,6 @@
+E:\projects\c#\SymDraw\SymDraw\bin\Debug\SymDraw.exe.config
+E:\projects\c#\SymDraw\SymDraw\bin\Debug\SymDraw.exe
+E:\projects\c#\SymDraw\SymDraw\bin\Debug\SymDraw.pdb
+E:\projects\c#\SymDraw\SymDraw\obj\Debug\SymDraw.csprojResolveAssemblyReference.cache
+E:\projects\c#\SymDraw\SymDraw\obj\Debug\SymDraw.exe
+E:\projects\c#\SymDraw\SymDraw\obj\Debug\SymDraw.pdb

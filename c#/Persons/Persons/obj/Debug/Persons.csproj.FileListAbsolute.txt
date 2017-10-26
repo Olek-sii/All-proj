@@ -1,0 +1,12 @@
+E:\projects\c#\Persons\Persons\bin\Debug\Persons.exe.config
+E:\projects\c#\Persons\Persons\bin\Debug\Persons.exe
+E:\projects\c#\Persons\Persons\bin\Debug\Persons.pdb
+E:\projects\c#\Persons\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
+E:\projects\c#\Persons\Persons\obj\Debug\Persons.Form1.resources
+E:\projects\c#\Persons\Persons\obj\Debug\Persons.Properties.Resources.resources
+E:\projects\c#\Persons\Persons\obj\Debug\Persons.csproj.GenerateResource.Cache
+E:\projects\c#\Persons\Persons\obj\Debug\Persons.exe
+E:\projects\c#\Persons\Persons\obj\Debug\Persons.pdb
+E:\projects\c#\Persons\Persons\obj\Debug\Persons.csproj.CoreCompileInputs.cache
+E:\projects\c#\Persons\Persons\bin\Debug\db.mdf
+E:\projects\c#\Persons\Persons\bin\Debug\db_log.ldf

@@ -1,0 +1,14 @@
+E:\projects\c#\DataBase\DataBase\bin\Debug\msSqlDb.mdf
+E:\projects\c#\DataBase\DataBase\bin\Debug\msSqlDb_log.ldf
+E:\projects\c#\DataBase\DataBase\bin\Debug\DataBase.exe.config
+E:\projects\c#\DataBase\DataBase\bin\Debug\DataBase.exe
+E:\projects\c#\DataBase\DataBase\bin\Debug\DataBase.pdb
+E:\projects\c#\DataBase\DataBase\bin\Debug\DataBaseApi.dll
+E:\projects\c#\DataBase\DataBase\bin\Debug\DataBaseApi.pdb
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBaseWinForms.csprojResolveAssemblyReference.cache
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBaseWinForms.Form1.resources
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBaseWinForms.csproj.GenerateResource.Cache
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBaseWinForms.csproj.CoreCompileInputs.cache
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBase.exe
+E:\projects\c#\DataBase\DataBase\obj\Debug\DataBase.pdb

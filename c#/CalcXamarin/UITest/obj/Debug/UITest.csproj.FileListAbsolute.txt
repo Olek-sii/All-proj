@@ -1,0 +1,10 @@
+E:\projects\c#\CalcXamarin\UITest\bin\Debug\UITest.dll
+E:\projects\c#\CalcXamarin\UITest\bin\Debug\UITest.pdb
+E:\projects\c#\CalcXamarin\UITest\bin\Debug\nunit.framework.dll
+E:\projects\c#\CalcXamarin\UITest\bin\Debug\Xamarin.UITest.dll
+E:\projects\c#\CalcXamarin\UITest\bin\Debug\nunit.framework.xml
+E:\projects\c#\CalcXamarin\UITest\bin\Debug\Xamarin.UITest.xml
+E:\projects\c#\CalcXamarin\UITest\obj\Debug\UITest.csprojResolveAssemblyReference.cache
+E:\projects\c#\CalcXamarin\UITest\obj\Debug\UITest.csproj.CoreCompileInputs.cache
+E:\projects\c#\CalcXamarin\UITest\obj\Debug\UITest.dll
+E:\projects\c#\CalcXamarin\UITest\obj\Debug\UITest.pdb

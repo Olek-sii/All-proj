@@ -1,0 +1,8 @@
+D:\ORT\ORT2\HOMEWORK\HW_3-6\Math\bin\Debug\Math.dll
+D:\ORT\ORT2\HOMEWORK\HW_3-6\Math\bin\Debug\Math.pdb
+D:\ORT\ORT2\HOMEWORK\HW_3-6\Math\obj\Debug\Math.dll
+D:\ORT\ORT2\HOMEWORK\HW_3-6\Math\obj\Debug\Math.pdb
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\Math\bin\Debug\Math.dll
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\Math\bin\Debug\Math.pdb
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\Math\obj\Debug\Math.dll
+D:\ORT\ORT2\HOMEWORK\HOMEWORK_3-6\HW_3-6\Math\obj\Debug\Math.pdb

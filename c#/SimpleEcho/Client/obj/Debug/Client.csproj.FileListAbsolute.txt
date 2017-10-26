@@ -1,0 +1,7 @@
+E:\projects\c#\SimpleEcho\Client\bin\Debug\Client.exe.config
+E:\projects\c#\SimpleEcho\Client\bin\Debug\Client.exe
+E:\projects\c#\SimpleEcho\Client\bin\Debug\Client.pdb
+E:\projects\c#\SimpleEcho\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\projects\c#\SimpleEcho\Client\obj\Debug\Client.exe
+E:\projects\c#\SimpleEcho\Client\obj\Debug\Client.pdb
+E:\projects\c#\SimpleEcho\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

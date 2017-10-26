@@ -1,0 +1,5 @@
+E:\projects\c#\CalcXamarin\CalcXamarin\CalcXamarin\bin\Debug\CalcXamarin.dll
+E:\projects\c#\CalcXamarin\CalcXamarin\CalcXamarin\bin\Debug\CalcXamarin.pdb
+E:\projects\c#\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\CalcXamarin.csproj.CoreCompileInputs.cache
+E:\projects\c#\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\CalcXamarin.dll
+E:\projects\c#\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\CalcXamarin.pdb

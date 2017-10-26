@@ -1,0 +1,49 @@
+E:\C# 1708\Paint\PaintWF\PaintWF\bin\Debug\PaintWF.exe.config
+E:\C# 1708\Paint\PaintWF\PaintWF\bin\Debug\PaintWF.exe
+E:\C# 1708\Paint\PaintWF\PaintWF\bin\Debug\PaintWF.pdb
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.csprojResolveAssemblyReference.cache
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.Form1.resources
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.Properties.Resources.resources
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.csproj.GenerateResource.Cache
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.exe
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.pdb
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.csproj.CoreCompileInputs.cache
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.PDraw.resources
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.PColor.resources
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.PWidth.resources
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.PFigure.resources
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.PSaving.resources
+E:\C# 1708\Paint\PaintWF\PaintWF\obj\Debug\PaintWF.POpening.resources
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\bin\Debug\PaintWF.exe.config
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\bin\Debug\PaintWF.exe
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\bin\Debug\PaintWF.pdb
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.csprojResolveAssemblyReference.cache
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.Form1.resources
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.PColor.resources
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.PDraw.resources
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.PFigure.resources
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.POpening.resources
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.Properties.Resources.resources
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.PSaving.resources
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.PWidth.resources
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.csproj.GenerateResource.Cache
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.csproj.CoreCompileInputs.cache
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.exe
+E:\C# 1708\Paint\WF\PaintWFVector\PaintWF\obj\Debug\PaintWF.pdb
+E:\projects\c#\PaintWFVector\PaintWF\bin\Debug\PaintWF.exe.config
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.exe
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.pdb
+E:\projects\c#\PaintWFVector\PaintWF\bin\Debug\PaintWF.exe
+E:\projects\c#\PaintWFVector\PaintWF\bin\Debug\PaintWF.pdb
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.csprojResolveAssemblyReference.cache
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.Form1.resources
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.PColor.resources
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.PDraw.resources
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.PFigure.resources
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.POpening.resources
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.Properties.Resources.resources
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.PSaving.resources
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.PWidth.resources
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.csproj.GenerateResource.Cache
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.csproj.CoreCompileInputs.cache
+E:\projects\c#\PaintWFVector\PaintWF\obj\Debug\PaintWF.PFigureType.resources

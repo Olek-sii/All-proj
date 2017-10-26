@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;CFrameButtons&apos; to &apos;CMain&apos;&#x0D;&#x0A;- Original project: &apos;Calc&apos;&#x0D;&#x0A;- Original element: &apos;CFrameButtons&apos;&#x0D;&#x0A;- Renamed element: &apos;CMain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CFrameButtons&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{CFrameButtons.java[CFrameButtons" matchStrategy="1" name="CMain" qualified="false" references="true" similarDeclarations="false" stamp="1505068892333" textual="false" version="1.0"/>
+</session>

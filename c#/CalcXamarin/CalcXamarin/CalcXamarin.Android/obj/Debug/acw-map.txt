@@ -1,0 +1,4 @@
+CalcXamarin.Droid.MainActivity, CalcXamarin.Android;md5d675b2b4fc79438caf1e7ea8a1b3ed8b.MainActivity
+CalcXamarin.Droid.MainActivity, CalcXamarin.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d675b2b4fc79438caf1e7ea8a1b3ed8b.MainActivity
+CalcXamarin.Droid.MainActivity;md5d675b2b4fc79438caf1e7ea8a1b3ed8b.MainActivity
+calcxamarin.droid.MainActivity;md5d675b2b4fc79438caf1e7ea8a1b3ed8b.MainActivity

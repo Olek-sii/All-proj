@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+	<script src='calc.js' type='text/javascript'></script>
+    <script>
+        function addNum(th) {
+            if (th.value != "0" || document.getElementById("res").value.length != 0) {
+                document.getElementById("res").value += th.value;
+            }
+        }
+		
+		function addOp(th) {
+			if (th.value == '=') {
+				b = Number(document.getElementById("res").value);
+				document.getElementById("res").value = doCalc(a,b,c);
+				c = '0';
+			} else if (c == '0') {
+				a = Number(document.getElementById("res").value);
+				c = th.value;
+				document.getElementById("res").value = '';
+			}
+		}
+		
+		var a = 0;
+		var b = 0;
+		var c = '0';
+    </script>
+</head>
+<body>
+    <input type="submit" id='1' value='1' onclick='addNum(this)'/>
+	<input type="submit" id='2' value='2' onclick='addNum(this)'/>
+	<input type="submit" id='3' value='3' onclick='addNum(this)'/>
+	<input type="submit" id='4' value='4' onclick='addNum(this)'/>
+	<input type="submit" id='5' value='5' onclick='addNum(this)'/><br/>
+	<input type="submit" id='6' value='6' onclick='addNum(this)'/>
+	<input type="submit" id='7' value='7' onclick='addNum(this)'/>
+	<input type="submit" id='8' value='8' onclick='addNum(this)'/>
+	<input type="submit" id='9' value='9' onclick='addNum(this)'/>
+	<input type="submit" id='0' value='0' onclick='addNum(this)'/><br/><br/>
+	<input type="submit" id='+' value='+' onclick='addOp(this)'/>
+	<input type="submit" id='-' value='-' onclick='addOp(this)'/>
+	<input type="submit" id='*' value='*' onclick='addOp(this)'/>
+	<input type="submit" id='/' value='/' onclick='addOp(this)'/>
+	<input type="submit" id='=' value='=' onclick='addOp(this)'/><br/><br/>
+    <input type="text" id="res"/><br />
+</body>
+</html>

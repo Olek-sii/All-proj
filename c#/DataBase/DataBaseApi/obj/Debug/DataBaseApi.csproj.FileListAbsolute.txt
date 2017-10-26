@@ -1,0 +1,7 @@
+E:\projects\c#\DataBase\DataBaseApi\bin\Debug\msSqlDb.mdf
+E:\projects\c#\DataBase\DataBaseApi\bin\Debug\msSqlDb_log.ldf
+E:\projects\c#\DataBase\DataBaseApi\bin\Debug\DataBaseApi.dll
+E:\projects\c#\DataBase\DataBaseApi\bin\Debug\DataBaseApi.pdb
+E:\projects\c#\DataBase\DataBaseApi\obj\Debug\DataBaseApi.csproj.CoreCompileInputs.cache
+E:\projects\c#\DataBase\DataBaseApi\obj\Debug\DataBaseApi.dll
+E:\projects\c#\DataBase\DataBaseApi\obj\Debug\DataBaseApi.pdb
